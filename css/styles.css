@@ -37,3 +37,18 @@ body {
 .navbar-dark {
     background-color: #512DAB;
 }
+
+.all-divs{ 
+    text-align:justify; 
+    display:flex; 
+    
+    align-items:center; 
+    justify-content:center;
+ }
+
+.tab-content  {
+    border-left: 1px solid #ddd;
+    border-right: 1 px solid #ddd;
+    border-bottom: 1 px solid #ddd;
+    padding: 10 px;
+}
