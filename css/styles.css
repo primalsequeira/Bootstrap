@@ -55,3 +55,18 @@ body {
   bottom: 0px;
   z-index: 1;
 }
+
+.modal-header {
+  background-color: slateblue;
+  color:floralwhite;
+  
+}
+
+.modal-body {
+  background-color: #e9ebee;
+
+}
+
+#closeid {
+  color:floralwhite;
+}
